@@ -21,3 +21,4 @@ git status
 git add .
 git commit -m "feat: add sample.env"
 git log --oneline -5
+git rebase --interactive HEAD~2

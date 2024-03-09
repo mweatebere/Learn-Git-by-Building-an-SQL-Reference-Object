@@ -14,3 +14,4 @@ touch .gitignore
 git status
 echo .env >> .gitignore
 git status
+git add .

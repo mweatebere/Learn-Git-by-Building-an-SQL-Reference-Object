@@ -27,3 +27,4 @@ git checkout main
 git branch
 git merge feat/add-gitignore
 git branch -d feat/add-gitignore
+git log --oneline
